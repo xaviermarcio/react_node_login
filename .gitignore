@@ -38,7 +38,11 @@ dist/
 # Ignorar pasta backend
 backend/node_modules/
 backend/.env
+backend/package.json
+backend/package-lock.json
 
 # Ignorar pasta frontend
 frontend/node_modules/
 frontend/.env
+frontend/package.json
+frontend/package-lock.json
