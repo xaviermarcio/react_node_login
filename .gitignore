@@ -1,0 +1,44 @@
+# Ignorar arquivos e pastas no diretório raiz
+node_modules/
+build/
+dist/
+*.log
+*.pid
+*.seed
+*.pid.lock
+.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.idea/
+.vscode/
+*.iml
+*.class
+*.pyc
+*.db
+*.sqlite
+*.log
+*.sublime*
+*.suo
+*.user
+*.sln.docstates
+*.pdb
+*.dbmdl
+*.idb
+*.json.user
+*.suo
+*.user
+*.userosscache
+*.suo
+*.suo
+*.suo
+
+# Ignorar pasta backend
+backend/node_modules/
+backend/.env
+
+# Ignorar pasta frontend
+frontend/node_modules/
+frontend/.env
